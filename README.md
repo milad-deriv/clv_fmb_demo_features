@@ -1,2 +1,2 @@
-# clv_fmb_demo_features
+# Demo Transactions Features
 Extracting features from demo clients transactions for CLV prediction 
